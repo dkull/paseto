@@ -1,4 +1,4 @@
-module github.com/o1egl/paseto/v2
+module github.com/dkull/paseto/v2
 
 go 1.13
 
